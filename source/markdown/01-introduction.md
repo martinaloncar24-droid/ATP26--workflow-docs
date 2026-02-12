@@ -189,12 +189,13 @@ slika br.2![<../assets images/pexels-pixabay-270348.jpg>)](../../assets/images/p
 [link za sliku br.2](https://images.pexels.com/photos/1089438/pexels-photo-1089438.jpeg)
 
 ## tablica
-| Frontend | Backend |
-|---------|---------|
-| HTML | PHP |
-| CSS | Python |
-| JavaScript | Node.js |
-| React | MySQL |
+| Frontend     | Backend   |
+|--------------|------------|
+| HTML         | PHP        |
+| CSS          | Python     |
+| JavaScript   | Node.js    |
+| React        | MySQL      |
+
 
 ### link na izvore
 - https://www.w3schools.com/html/default.asp
