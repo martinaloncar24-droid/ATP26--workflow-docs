@@ -201,7 +201,20 @@ slika br.2![<../assets images/pexels-pixabay-270348.jpg>)](../../assets/images/p
 - https://www.w3schools.com/html/default.asp
 
 ## dijagram
-```mermaid
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: true });
+  </script>
+</head>
+<body>
+
+<h2>Dijagram projekta</h2>
+
+<div class="mermaid">
 flowchart TD
     A[Ideja projekta] --> B[Planiranje]
     B --> C[Dizajn UI/UX]
@@ -209,5 +222,7 @@ flowchart TD
     D --> E[Backend razvoj]
     E --> F[Testiranje]
     F --> G[Deploy]
+</div>
 
-```
+</body>
+</html>
