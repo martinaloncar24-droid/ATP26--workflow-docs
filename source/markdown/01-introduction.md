@@ -205,10 +205,8 @@ slika br.2![<../assets images/pexels-pixabay-270348.jpg>)](../../assets/images/p
 <html>
 <head>
   <meta charset="UTF-8">
-  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-  <script>
-    mermaid.initialize({ startOnLoad: true });
-  </script>
+  <title>Dijagram</title>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 <body>
 
@@ -223,6 +221,10 @@ flowchart TD
     E --> F[Testiranje]
     F --> G[Deploy]
 </div>
+
+<script>
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 </body>
 </html>
