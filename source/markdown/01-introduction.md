@@ -49,7 +49,7 @@ Start tag Element content End tag
 <br>  none  none
 Note: Some HTML elements have no content (like the <br> element). These elements are called empty elements. Empty elements do not have an end tag!
 
-## ADVERTISEMENT
+# ADVERTISEMENT
 
 REMOVE ADS
 
@@ -75,7 +75,7 @@ Below is a visualization of an HTML page structure:
 </html>
 Note: The content inside the <body> section will be displayed in a browser. The content inside the <title> element will be shown in the browser's title bar or in the page's tab.
 
-### HTML History
+## HTML History
 Since the early days of the World Wide Web, there have been many versions of HTML:
 
 Year  Version
